@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sousa</h1>
 <h3 align="center">A passionate IT professional from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/gabrielsalvesdev/gabrielsalvesdev/blob/main/cod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsalvesdev&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsalvesdev" /> </p>
 
