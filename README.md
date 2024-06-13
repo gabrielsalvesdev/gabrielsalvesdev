@@ -11,19 +11,19 @@
 <h3 align="left">Certs:</h3>
 <p align="left">
   <a href="https://www.credly.com/users/gabriel-alves-sousa/badges" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    <img align="center" src="https://img.shields.io/badge/Credly-FF6F00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
   </a>
   <a href="https://partner.cloudskillsboost.google/public_profiles/a3df8eb8-fa38-40f7-88b4-a724bc5da6df" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   </a>
   <a href="https://learn.microsoft.com/pt-br/users/gabrielalves-5724/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+    <img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=7965430288465312211" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+    <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
   </a>
   <a href="https://developers.google.com/profile/u/gabrielsousa" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Google_Developers-0F9D58?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Developers" />
+    <img align="center" src="https://img.shields.io/badge/Google_Developers-0F9D58?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers" />
   </a>
 </p>
 
