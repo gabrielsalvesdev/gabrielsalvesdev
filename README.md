@@ -11,21 +11,22 @@
 <h3 align="left">Certs:</h3>
 <p align="left">
   <a href="https://www.credly.com/users/gabriel-alves-sousa/badges" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/acclaim.svg" alt="Credly" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/acclaim.png" alt="Credly" height="30" width="40" />
   </a>
   <a href="https://partner.cloudskillsboost.google/public_profiles/a3df8eb8-fa38-40f7-88b4-a724bc5da6df" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" alt="Google Cloud" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" height="30" width="40" />
   </a>
   <a href="https://learn.microsoft.com/pt-br/users/gabrielalves-5724/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft.svg" alt="Microsoft Learn" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Learn" height="30" width="40" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=7965430288465312211" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg" alt="Google Play" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/google-play.png" alt="Google Play" height="30" width="40" />
   </a>
   <a href="https://developers.google.com/profile/u/gabrielsousa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" alt="Google Developers" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Developers" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
