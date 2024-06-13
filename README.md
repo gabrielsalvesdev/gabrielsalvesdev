@@ -57,7 +57,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsalvesdev&show_icons=true&locale=en" alt="gabrielsalvesdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsalvesdev&" alt="gabrielsalvesdev" /></p>
 
 
 
