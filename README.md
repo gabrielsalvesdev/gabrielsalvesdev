@@ -19,9 +19,6 @@
   <a href="https://learn.microsoft.com/pt-br/users/gabrielalves-5724/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=7965430288465312211" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
   <a href="https://developers.google.com/profile/u/gabrielsousa" target="blank">
     <img align="center" src="https://img.shields.io/badge/Google_Developers-0F9D58?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers" />
   </a>
