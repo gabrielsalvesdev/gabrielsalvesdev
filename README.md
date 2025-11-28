@@ -19,7 +19,7 @@
   <a href="https://learn.microsoft.com/pt-br/users/gabrielalves-5724/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
   </a>
-  <a href="https://developers.google.com/profile/u/gabrielsousa" target="blank">
+  <a href="https://g.dev/gabrielsousa" target="blank">
     <img align="center" src="https://img.shields.io/badge/Google_Developers-0F9D58?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers" />
   </a>
 </p>
